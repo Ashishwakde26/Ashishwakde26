@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashishwakde26
 - 👀 I’m interested in working NodeJS.
-- 🌱 I’m currently learning NodeJS, MongoDB, SpringBoot
+- 🌱 I’m currently learning NodeJS, MongoDB, Python
 - 💞️ I’m looking to collaborate on NodeJS
 - 📫 How to reach me Ashishwakde53@gmail.com, +91 8698861203
 
